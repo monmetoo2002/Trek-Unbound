@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 4ef756f10038e2a4c98751faaab44c12
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891cd90a71d3fe946bda58d183058bbe
+      internalID: 1392407401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1aa374ffd33b429d69392cec4b23a
+      internalID: 1433547935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1024
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5536a46e872c4db081fe4e85c8539
+      internalID: 474404710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1024
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c26577cbc80054e971bd70cecb7eec
+      internalID: 1198975093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d9213d35f1f24e845b37b5a30389b
+      internalID: -1339076069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Warrior_0: 1392407401
+      GandalfHardcore Warrior_1: 1433547935
+      GandalfHardcore Warrior_10: -356029700
+      GandalfHardcore Warrior_100: 44300156
+      GandalfHardcore Warrior_101: -1357364771
+      GandalfHardcore Warrior_102: 1013824110
+      GandalfHardcore Warrior_103: -1850044956
+      GandalfHardcore Warrior_104: 755451103
+      GandalfHardcore Warrior_105: 2043775706
+      GandalfHardcore Warrior_11: -538610755
+      GandalfHardcore Warrior_12: 1036451544
+      GandalfHardcore Warrior_13: -156536272
+      GandalfHardcore Warrior_14: 1762674246
+      GandalfHardcore Warrior_15: 2113627117
+      GandalfHardcore Warrior_16: -1646416543
+      GandalfHardcore Warrior_17: 1947890077
+      GandalfHardcore Warrior_18: 2046567156
+      GandalfHardcore Warrior_19: -363378178
+      GandalfHardcore Warrior_2: 474404710
+      GandalfHardcore Warrior_20: 1488317279
+      GandalfHardcore Warrior_21: -249704021
+      GandalfHardcore Warrior_22: 1718269629
+      GandalfHardcore Warrior_23: 1075272459
+      GandalfHardcore Warrior_24: 747819371
+      GandalfHardcore Warrior_25: -771315626
+      GandalfHardcore Warrior_26: 1646988390
+      GandalfHardcore Warrior_27: 1229718469
+      GandalfHardcore Warrior_28: -1597837594
+      GandalfHardcore Warrior_29: -362550491
+      GandalfHardcore Warrior_3: 1198975093
+      GandalfHardcore Warrior_30: 1803255729
+      GandalfHardcore Warrior_31: -1712989449
+      GandalfHardcore Warrior_32: 1958629333
+      GandalfHardcore Warrior_33: 2073329814
+      GandalfHardcore Warrior_34: -1967013090
+      GandalfHardcore Warrior_35: -1708281521
+      GandalfHardcore Warrior_36: -759134807
+      GandalfHardcore Warrior_37: -2008244436
+      GandalfHardcore Warrior_38: 1626339092
+      GandalfHardcore Warrior_39: -495887638
+      GandalfHardcore Warrior_4: -1339076069
+      GandalfHardcore Warrior_40: 1144944289
+      GandalfHardcore Warrior_41: -1526870309
+      GandalfHardcore Warrior_42: -721938931
+      GandalfHardcore Warrior_43: 1851751605
+      GandalfHardcore Warrior_44: -1436319282
+      GandalfHardcore Warrior_45: 765783386
+      GandalfHardcore Warrior_46: 687178203
+      GandalfHardcore Warrior_47: 1686243917
+      GandalfHardcore Warrior_48: 1624079038
+      GandalfHardcore Warrior_49: 1810325476
+      GandalfHardcore Warrior_5: -143997516
+      GandalfHardcore Warrior_50: 150840687
+      GandalfHardcore Warrior_51: -690189202
+      GandalfHardcore Warrior_52: 1382638940
+      GandalfHardcore Warrior_53: -1471491715
+      GandalfHardcore Warrior_54: 1987784879
+      GandalfHardcore Warrior_55: 615812905
+      GandalfHardcore Warrior_56: -692688535
+      GandalfHardcore Warrior_57: 105311431
+      GandalfHardcore Warrior_58: -1894047742
+      GandalfHardcore Warrior_59: 102538466
+      GandalfHardcore Warrior_6: -1146035410
+      GandalfHardcore Warrior_60: -535954427
+      GandalfHardcore Warrior_61: 481051944
+      GandalfHardcore Warrior_62: 1262686861
+      GandalfHardcore Warrior_63: 410468881
+      GandalfHardcore Warrior_64: 388992619
+      GandalfHardcore Warrior_65: -1472201354
+      GandalfHardcore Warrior_66: -1297411461
+      GandalfHardcore Warrior_67: -984940019
+      GandalfHardcore Warrior_68: -1816181404
+      GandalfHardcore Warrior_69: -96001146
+      GandalfHardcore Warrior_7: 52910268
+      GandalfHardcore Warrior_70: 138128269
+      GandalfHardcore Warrior_71: 1532606998
+      GandalfHardcore Warrior_72: 1286589038
+      GandalfHardcore Warrior_73: 1182188757
+      GandalfHardcore Warrior_74: 270261166
+      GandalfHardcore Warrior_75: -239370110
+      GandalfHardcore Warrior_76: -1522401705
+      GandalfHardcore Warrior_77: -1680333708
+      GandalfHardcore Warrior_78: 371348017
+      GandalfHardcore Warrior_79: 722155856
+      GandalfHardcore Warrior_8: 648641306
+      GandalfHardcore Warrior_80: 770896328
+      GandalfHardcore Warrior_81: -450668530
+      GandalfHardcore Warrior_82: -266285359
+      GandalfHardcore Warrior_83: 995298178
+      GandalfHardcore Warrior_84: -1115566968
+      GandalfHardcore Warrior_85: 1351947253
+      GandalfHardcore Warrior_86: -2125450376
+      GandalfHardcore Warrior_87: 24732855
+      GandalfHardcore Warrior_88: -1748867008
+      GandalfHardcore Warrior_89: 1929479650
+      GandalfHardcore Warrior_9: 307604966
+      GandalfHardcore Warrior_90: -1507021461
+      GandalfHardcore Warrior_91: 1669741331
+      GandalfHardcore Warrior_92: -2040243002
+      GandalfHardcore Warrior_93: 1127691324
+      GandalfHardcore Warrior_94: -1821406610
+      GandalfHardcore Warrior_95: -424241418
+      GandalfHardcore Warrior_96: -866852861
+      GandalfHardcore Warrior_97: 1434498859
+      GandalfHardcore Warrior_98: -105352254
+      GandalfHardcore Warrior_99: -746659391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

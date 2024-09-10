@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: a13c7b287e4020d4aba67691501fc3cf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player UI_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 131
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb8bf3e01ba66439b978cf6866d161
+      internalID: 257070553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player UI_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf97ca710a2f354996fc0286f6a59f1
+      internalID: 87074929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player UI_0: 15951834
+      Player UI_1: -1905802513
+      Player UI_10: 951755385
+      Player UI_11: -430957826
+      Player UI_12: -2043734034
+      Player UI_13: -1405336487
+      Player UI_14: 924130258
+      Player UI_15: -1120948717
+      Player UI_16: 931317945
+      Player UI_17: 1457733012
+      Player UI_18: 273086958
+      Player UI_19: -1173685741
+      Player UI_2: 257070553
+      Player UI_20: 821552543
+      Player UI_21: -725387
+      Player UI_22: -886375023
+      Player UI_23: -1339782632
+      Player UI_24: -293321965
+      Player UI_25: 1863439855
+      Player UI_26: -875295226
+      Player UI_27: -334312405
+      Player UI_28: 1157068954
+      Player UI_29: -1496544276
+      Player UI_3: 862909361
+      Player UI_30: -108427396
+      Player UI_31: 2046584946
+      Player UI_32: -404514216
+      Player UI_33: 176901438
+      Player UI_34: -1417217267
+      Player UI_35: 1297558511
+      Player UI_36: -1778512199
+      Player UI_37: -1603533070
+      Player UI_38: -1557217424
+      Player UI_39: -387474567
+      Player UI_4: -1521963072
+      Player UI_40: -1172703273
+      Player UI_41: -959428725
+      Player UI_42: -625340508
+      Player UI_43: -1671172603
+      Player UI_44: 1480621475
+      Player UI_45: -1665661910
+      Player UI_46: -1362048209
+      Player UI_47: 151031304
+      Player UI_48: 607597632
+      Player UI_49: -2003363283
+      Player UI_5: 1645035663
+      Player UI_50: -1928709269
+      Player UI_51: 1595964807
+      Player UI_52: 1499397933
+      Player UI_53: -1925292024
+      Player UI_54: -1601284414
+      Player UI_6: 87074929
+      Player UI_7: -671175083
+      Player UI_8: -1935138636
+      Player UI_9: 2006237576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

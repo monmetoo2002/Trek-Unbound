@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Audio
+  - Interactables
+  - Gem
+  - Boss
+  - Key
+  - Enemy
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Interactables
+  - Gem
+  - Foreground
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1270446161
+    locked: 0
+  - name: Props Tilemap
+    uniqueID: 127560325
+    locked: 0
+  - name: Ground
+    uniqueID: 3373985699
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3434317297
+    locked: 0
+  - name: Interactables
+    uniqueID: 788929613
+    locked: 0
+  - name: Gem
+    uniqueID: 908493761
+    locked: 0
+  - name: Player
+    uniqueID: 1341198091
+    locked: 0
+  - name: Boss
+    uniqueID: 4056557629
+    locked: 0
+  - name: Foreground
+    uniqueID: 4106864571
+    locked: 0
