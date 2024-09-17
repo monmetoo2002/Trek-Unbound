@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Trek Unbound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|D:\\Trek Unbound\\assets\\scripts\\main\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|d:\\trek unbound\\assets\\scripts\\main\\wincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main\\wincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|d:\\trek unbound\\assets\\scripts\\player\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB21F00-0564-E522-8212-2841152F002C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LevelMenu.cs",
-              "DocumentMoniker": "D:\\Trek Unbound\\Assets\\Scripts\\Main\\LevelMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\LevelMenu.cs",
-              "ToolTip": "D:\\Trek Unbound\\Assets\\Scripts\\Main\\LevelMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Main\\LevelMenu.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Title": "Collision.cs",
+              "DocumentMoniker": "D:\\Trek Unbound\\Assets\\Scripts\\Player\\Collision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Collision.cs",
+              "ToolTip": "D:\\Trek Unbound\\Assets\\Scripts\\Player\\Collision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Collision.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:15:28.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WinController.cs",
-              "DocumentMoniker": "D:\\Trek Unbound\\Assets\\Scripts\\Main\\WinController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Main\\WinController.cs",
-              "ToolTip": "D:\\Trek Unbound\\Assets\\Scripts\\Main\\WinController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Main\\WinController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T08:31:08.856Z",
+              "WhenOpened": "2024-09-13T07:29:17.101Z",
               "EditorCaption": ""
             }
           ]
